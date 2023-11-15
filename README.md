@@ -27,7 +27,7 @@ const configuration = {
         url: "../assets/icon.png",
         scale: 0.4
     },
-    light: {
+    flowing: {
         show: true,
         url: "../assets/flow.png",
         weight: 0.03,
