@@ -2,7 +2,7 @@
 ### Javascript三维地图库
 
 本项目的目的是打造一款可以通过简单轻量化配置就可以快速上手的三维地图工具库。目前本工具库底层基于[three.js](https://threejs.org/) Javascript 三维库实现。
-![snapshot](./snapshot.png)
+![snapshot](snapshot.png)
 
 
 ## 常规使用
